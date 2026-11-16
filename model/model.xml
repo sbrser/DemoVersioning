@@ -1,0 +1,1 @@
+<project name="DemoVersioning" threads="0" pubsub="auto" heartbeat-interval="1" luaroot="@ESP_PROJECT_OUTPUT@/luaroot"><metadata><meta id="layout">{}</meta></metadata><contqueries><contquery name="cq1"><windows><window-source name="Source"><schema><fields><field name="id" type="string" key="true"/></fields></schema></window-source></windows></contquery></contqueries></project>
